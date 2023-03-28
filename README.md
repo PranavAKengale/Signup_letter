@@ -4,5 +4,5 @@ This is a signup page created with the help of HTML, CSS, Bootstrap, and Javascr
 Mailchimp, also known as Intuit Mailchimp, is a marketing automation platform and email marketing service.
 
 To start the app:
-  Download the source code
-  node run app.js
+  i) Download the source code
+  ii) node run app.js
